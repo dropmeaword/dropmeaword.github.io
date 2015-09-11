@@ -1,0 +1,12 @@
+# Site settings
+title: Critical Approaches to Technology
+email: root@derfunke.net
+description: "Course materials and notes for the course Critical Approaches to Technology"
+baseurl: ""
+url: "http://dropmeaword.github.io"
+twitter_username: dropmeaword
+github_username:  dropmeaword
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
